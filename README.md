@@ -3,7 +3,7 @@
 
 ## Description
 
-ATB Industries is a Canadian plastic bottle manufacturing company, producing custom plastic bottles with the highest quality in the industry at competetive prices. This repository contains the code for their upcoming new website, which will use a React framework. You can visit their current website at [ATB Industries](atb.ca).
+ATB Industries is a Canadian plastic bottle manufacturing company, producing custom plastic bottles with the highest quality in the industry at competetive prices. This repository contains the code for the upcoming redesign of their website. The new site, built with a React framework, aims to provide a digital experience that matches the quality of the bottles produced by ATB. Visit their current website at [ATB Industries](https://www.atb.ca).
 
 ## Table of Contents
 
