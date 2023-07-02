@@ -18,8 +18,6 @@ ATB Industries is a Canadian plastic bottle manufacturing company, producing cus
 
 The goal of this project is to build a modern, user-friendly website that highlights ATB Industries' products and services. Features will include a product showcase and a contact form.
 
-![NeuroSpace Calendar View](https://github.com/acst52/NeuroSpace/assets/116177485/e5332073-0599-493c-abec-b075a5b850ac) ![NeuroSpace Search Resource View](https://github.com/acst52/NeuroSpace/assets/116177485/c8f6fddb-76d8-467e-9fd7-03ea0dd25f39)
-
 <!-- ## Technologies
 
 **Front-End**: React framework, Vanilla CSS
